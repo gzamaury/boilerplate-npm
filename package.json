@@ -1,8 +1,9 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Amaury Gz",
+  "name": "fcc-learn-npm-package-json",
+  "author": "Amaury Gz",
   "description": "A project to learn npm at freecodecamp",
   "keywords": ["npm", "node", "learn", "freecodecamp"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
